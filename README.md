@@ -17,12 +17,12 @@ More algorithms coming soon.
 
 ```bash
 git clone https://github.com/<KPAUL94a>/<ML_from_scratch>.git
-cd <scratch>
+cd <ML_from_scratch>
 pip install numpy pandas matplotlib scikit-learn jupyter
 jupyter notebook
 ```
 
-Datasets are not included. Place each CSV in the same folder as its notebook.
+Datasets are included.
 
 ## Planned
 
