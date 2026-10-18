@@ -10,6 +10,7 @@ Each notebook walks through the theory, the implementation and the evaluation, w
 |---|---|---|---|
 | [Multiple Linear Regression](linear_regression.ipynb) | California Housing | Normal Equation | R² ≈ 0.64 |
 | [Logistic Regression](astc_final_2.ipynb) | Astronomical objects (star vs galaxy) | Gradient descent, L2 regularization, polynomial features | Accuracy ≈ 95.7% |
+| [K nearest neighbour](knn_from_scratch.ipynb) | Breast Cancer | KNN | Accuracy ≈ 98.2% |
 
 More algorithms coming soon.
 
@@ -26,7 +27,7 @@ Datasets are included.
 
 ## Planned
 
-- [ ] k-Nearest Neighbors
+- [x] k-Nearest Neighbors
 - [ ] Decision Trees
 - [ ] k-Means Clustering
 - [ ] Naive Bayes
