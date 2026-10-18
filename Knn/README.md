@@ -69,7 +69,3 @@ Since everything depends on distances, features must be on a comparable scale, w
 - [ ] Wrap the code in a `KNN` class with `fit`, `predict` and `predict_proba`
 - [ ] Validate against `sklearn.neighbors.KNeighborsClassifier`
 - [ ] Vectorise prediction across all test points and speed up the neighbour search
-
-## License
-
-Add a license of your choice (for example MIT) before publishing.
