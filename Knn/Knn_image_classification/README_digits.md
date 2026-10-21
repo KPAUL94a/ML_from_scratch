@@ -17,6 +17,7 @@ the metrics and the confusion matrix are written by hand.
 | Best k in the sweep (evaluated on the test set) | 1 to 3 (98.6%) |
 
 Settings: k = 5, Euclidean distance, raw pixel values (no scaling), 80/20 stratified split (`random_state=42`).
+### In case of MNIST dataset accuracy is around 98%(with deskew and setting k = 5) but it is slow takes around 40 min in intel i5 210h.
 
 ## What's implemented
 
